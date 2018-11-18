@@ -10,3 +10,7 @@ evens.forEach(
   even => {
   console.log(`${even} is not odd!`);
 });
+
+function square(n){
+  console.log(n*n)
+}
