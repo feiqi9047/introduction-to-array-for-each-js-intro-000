@@ -25,6 +25,8 @@ function doToElementsInArray(array, callback){
   array.forEach(callback)
 }
 
+var animals = ["dog", "cat", "squirrel"];
+
 function changeCompletely(element, index, array){
   
 }
