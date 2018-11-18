@@ -32,3 +32,5 @@ function changeCompletely(element, index, array){
 }
 
 doToElementsInArray(animals, changeCompletely)
+
+console.log(animals)
