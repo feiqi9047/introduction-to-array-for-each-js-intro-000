@@ -16,3 +16,7 @@ function square(n){
 }
 
 evens.forEach(square)
+
+function doToEvens(callback){
+  evens.forEach(callback)
+}
