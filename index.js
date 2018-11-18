@@ -20,3 +20,7 @@ evens.forEach(square)
 function doToEvens(callback){
   evens.forEach(callback)
 }
+
+function doToElementsInArray(array, callback){
+  array.forEach(callback)
+}
