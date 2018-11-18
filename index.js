@@ -14,3 +14,5 @@ evens.forEach(
 function square(n){
   console.log(n*n)
 }
+
+evens.forEach(square)
