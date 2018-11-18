@@ -24,3 +24,7 @@ function doToEvens(callback){
 function doToElementsInArray(array, callback){
   array.forEach(callback)
 }
+
+function changeCompletely(element, index, array){
+  
+}
